@@ -20,9 +20,9 @@ Rocket Car Game é um jogo de corrida e futebol inspirado no famoso Rocket Leagu
 
 **Gameplay:**
 
-Confira um vídeo de gameplay do nosso jogo:
+Confira um vídeo de gameplay do jogo:
 
-[![Gameplay Video](link_do_print_da_capa_do_video)](https://www.youtube.com/watch?v=link_do_video)
+https://streamable.com/54ke95
 
 ---
 
@@ -30,19 +30,19 @@ Confira um vídeo de gameplay do nosso jogo:
 
 **Interação com a Bola:**
 
-![Interação com a Bola](prints/interacao(batendo_em_bola).png)
+![Interação com a Bola](prints/interacao(batendo%20em%20bola).png)
 
 **Interação com Rampas:**
 
-![Interação com Rampas](prints/interacao(fisica_de_rampar).png)
+![Interação com Rampas](prints/interacao(fisica%20de%20rampar).png)
 
 **Passando em Lombadas:**
 
-![Passando em Lombadas](prints/interacao(passando_em_lombada).png)
+![Passando em Lombadas](prints/interacao(passando%20em%20lombada).png)
 
 **Troca de Chão (Inclinado para Reto):**
 
-![Troca de Chão](prints/interacao(troca_de_chão,_inclinado_para_reto).png)
+![Troca de Chão](prints/interacao(troca%20de%20chão%2C%20inclinado%20para%20reto).png)
 
 ---
 
@@ -67,7 +67,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com a Bola:**
 
-   ![Interação com a Bola](prints/interacao(batendo_em_bola).png)
+   ![Interação com a Bola](prints/interacao(batendo%20em%20bola).png)
 
 2. **Interação com Rampas:**
    A física de rampas foi implementada para permitir que os carros realizem manobras acrobáticas, saltando e girando no ar.
@@ -91,7 +91,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com Rampas:**
 
-   ![Interação com Rampas](prints/interacao(fisica_de_rampar).png)
+   ![Interação com Rampas](prints/interacao(fisica%20de%20rampar).png)
 
 3. **Passando em Lombadas:**
    Implementamos uma funcionalidade de interação com lombadas que cria uma dinâmica realista de desaceleração e aumento de dificuldade, proporcionando uma experiência de corrida mais desafiadora.
@@ -115,7 +115,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com Lombadas:**
 
-   ![Passando em Lombadas](prints/interacao(passando_em_lombada).png)
+   ![Passando em Lombadas](prints/interacao(passando%20em%20lombada).png)
 
 4. **Troca de Chão (Inclinado para Reto):**
    A transição entre diferentes tipos de terrenos foi implementada para adicionar uma camada extra de estratégia e desafio ao jogo.
@@ -149,8 +149,4 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Troca de Chão:**
 
-   ![Troca de Chão](prints/interacao(troca_de_chão,_inclinado_para_reto).png)
-
----
-
-Sinta-se à vontade para adicionar mais detalhes e personalizar conforme necessário!
+   ![Troca de Chão](prints/interacao(troca%20de%20chão%2C%20inclinado%20para%20reto).png)
