@@ -30,7 +30,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
 **Interação com a Bola:**
 
-![Interação com a Bola](prints/interacao(batendo_em_bola).png)
+![Interação com a Bola](prints/interacao(batendo%20em%20bola).png)
 
 **Interação com Rampas:**
 
