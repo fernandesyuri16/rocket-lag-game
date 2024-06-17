@@ -20,9 +20,9 @@ Rocket Car Game é um jogo de corrida e futebol inspirado no famoso Rocket Leagu
 
 **Gameplay:**
 
-Confira um vídeo de gameplay do nosso jogo:
+Confira um vídeo de gameplay do jogo:
 
-[![Gameplay Video](link_do_print_da_capa_do_video)](https://www.youtube.com/watch?v=link_do_video)
+https://streamable.com/54ke95
 
 ---
 
