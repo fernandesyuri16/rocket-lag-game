@@ -1,5 +1,3 @@
-Aqui está o README para o jogo de carro inspirado no Rocket League:
-
 ---
 
 # Rocket Car Game
