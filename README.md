@@ -1,5 +1,3 @@
----
-
 # Rocket Car Game
 
 **Descrição do Jogo:**
